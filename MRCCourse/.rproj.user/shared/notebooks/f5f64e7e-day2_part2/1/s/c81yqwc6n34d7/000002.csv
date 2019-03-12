@@ -1,0 +1,18 @@
+"0","library('TxDb.Mmusculus.UCSC.mm10.knownGene')"
+"2","Loading required package: GenomicFeatures
+"
+"2","Loading required package: AnnotationDbi
+"
+"2","
+Attaching package: ‘AnnotationDbi’
+
+"
+"2","The following object is masked from ‘package:methylKit’:
+
+    select
+
+"
+"0","library(""AnnotationHub"")"
+"2","Error in library(""AnnotationHub"") : 
+  there is no package called ‘AnnotationHub’
+"

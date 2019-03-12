@@ -1,0 +1,2 @@
+"0","cols <- c('#fc8d59','#91cf60') "
+"0","names(cols) <- c(""tumor"",""control"")"

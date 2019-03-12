@@ -1,0 +1,14 @@
+"0","meth = unite(filtered.myobj, destrand=FALSE)"
+"0","nrow(meth)"
+"1","[1]"
+"1"," 19113"
+"1","
+"
+"0","head(meth)"
+"1","methylBase object with"
+"1"," "
+"1","6"
+"1"," "
+"1","rows
+--------------
+"

@@ -1,0 +1,1 @@
+"0","Reg <- GRanges(seqname=dmrs[2,1],IRanges( dmrs[2,2],dmrs[2,3]))"

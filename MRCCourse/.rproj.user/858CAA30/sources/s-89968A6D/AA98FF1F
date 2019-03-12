@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552329714704.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AA98FF1F",
+    "lastKnownWriteTime" : 1552332294,
+    "last_content_update" : 1552332416049,
+    "path" : "~/Dropbox/MRCCourse/Day2_Part2.Rmd",
+    "project_path" : "Day2_Part2.Rmd",
+    "properties" : {
+        "cursorPosition" : "229,41",
+        "scrollLine" : "225",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

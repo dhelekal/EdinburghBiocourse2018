@@ -1,0 +1,3 @@
+"0","filtered.myobj = filterByCoverage(myobj,lo.count=10,lo.perc=NULL,"
+"0","                                      hi.count=NULL,hi.perc=99.9)"
+"0","getCoverageStats(filtered.myobj[[1]],plot=TRUE,both.strands=FALSE)"

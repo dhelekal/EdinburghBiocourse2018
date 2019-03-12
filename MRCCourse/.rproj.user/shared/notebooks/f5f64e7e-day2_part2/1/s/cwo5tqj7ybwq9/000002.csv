@@ -1,0 +1,5 @@
+"0","if (!requireNamespace(""BiocManager"", quietly = TRUE))"
+"0","    install.packages(""BiocManager"")"
+"0","BiocManager::install(""knitr"")"
+"2","
+"

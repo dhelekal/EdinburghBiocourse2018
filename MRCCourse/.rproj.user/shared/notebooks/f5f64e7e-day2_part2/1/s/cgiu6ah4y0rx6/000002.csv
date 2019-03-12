@@ -1,0 +1,6 @@
+"0","m = as.vector(mat)"
+"0","s =  c(rep(sample.ids[[1]],nrow(meth)),rep(sample.ids[[2]],nrow(meth)),"
+"0","    rep(sample.ids[[3]],nrow(meth)),rep(sample.ids[[4]],nrow(meth)))"
+"0","c = c(rep('Ctr',2*nrow(meth)),"
+"0","    rep('Tu',2*nrow(meth)  ))"
+"0","DD = data.frame(mCpG=m,sample=as.factor(s),condition=as.factor(c))"

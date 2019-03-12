@@ -1,0 +1,1 @@
+"0","hist( rowSums(BS.cov), breaks=1000, xlab=""Coverage per CpG sites"", main= ""Coverage per CpG sites"")"

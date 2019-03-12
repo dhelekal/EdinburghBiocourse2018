@@ -1,0 +1,16 @@
+"0","annots = c('mm10_cpgs')"
+"0","annotations = build_annotations(genome = 'mm10', annotations = annots)"
+"2","Building CpG islands...
+"
+"2","Building CpG shores...
+"
+"2","Building CpG shelves...
+"
+"2","Building inter-CpG-islands...
+"
+"0","diffCpGann=annotateWithFeatureFlank(as(myDiff25p,""GRanges""),"
+"0","                                    cpg.obj$CpGi,cpg.obj$shores,"
+"0","                         feature.name=""CpGi"",flank.name=""shores"")"
+"2","Error in annotateWithFeatureFlank(as(myDiff25p, ""GRanges""), cpg.obj$CpGi,  : 
+  object 'cpg.obj' not found
+"

@@ -1,0 +1,5 @@
+"0","myDiff=calculateDiffMeth(meth)"
+"2","two groups detected:
+ will calculate methylation difference as the difference of
+treatment (group: 1) - control (group: 0)
+"

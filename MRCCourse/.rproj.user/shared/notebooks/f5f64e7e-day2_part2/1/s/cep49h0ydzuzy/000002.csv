@@ -1,0 +1,5 @@
+"0","dmrs0 <- dmrFinder(BS.cancer.ex.tstat, cutoff = c(-4.6, 4.6))"
+"1","[dmrFinder] creating dmr data.frame
+"
+"0","dmrs <- subset(dmrs0, n >= 3 & abs(meanDiff) >= 0.1)"
+"0","head(dmrs)"

@@ -1,0 +1,2 @@
+"0","barplot( c(sum(dmrs$direction == ""hypo""), sum(dmrs$direction == ""hyper"")), ylab=""Number of DMRs"", "
+"0","         names=c(""Hypo"", ""Hyper""))"

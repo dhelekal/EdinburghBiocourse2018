@@ -1,0 +1,1 @@
+"0","plotRegion(BS.cancer.ex.fit, dmrs[2,], extend = 5000, addRegions = dmrs, col=c(rep(""black"",2), rep(""red"", 2)))"

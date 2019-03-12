@@ -1,0 +1,2 @@
+"0","coverage.per.sample <- colSums(BS.cov)"
+"0","barplot( coverage.per.sample, ylab=""Number of observations per sample"", names= rownames(attr( BS.cancer.ex ,""colData"")),col=cols[match(BS.cancer.ex$Type,names(cols))])"
